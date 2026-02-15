@@ -41,17 +41,11 @@ A **simple and modern bookmark manager** that allows users to save, view, and ma
 
 ---
 
-## 📂 GitHub Repository
-
-📦 [GitHub Repo](https://github.com/yourusername/smart-bookmark-app)  
-
----
-
 ## ⚙️ Setup & Local Development
 
 1️⃣ **Clone the repo**  
 ```bash
-git clone https://github.com/yourusername/smart-bookmark-app.git
+git clone https://github.com/SekharSunkara6/Smart-Bookmark-App.git
 cd smart-bookmark-app
 ````
 
@@ -165,4 +159,4 @@ https://yctynwyftyoiptmojnab.supabase.co/auth/v1/callback
 ## ✅ Final Submission
 
 * **Live URL:** [https://smart-bookmark-app-coral-ten.vercel.app](https://smart-bookmark-app-coral-ten.vercel.app)
-* **GitHub Repo:** [https://github.com/yourusername/smart-bookmark-app](https://github.com/yourusername/smart-bookmark-app)
+* **GitHub Repo:** [https://github.com/SekharSunkara6/Smart-Bookmark-App.git](https://github.com/SekharSunkara6/Smart-Bookmark-App.git)
